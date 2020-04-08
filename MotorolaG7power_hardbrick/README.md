@@ -1,6 +1,6 @@
 ## [WARNING]
 
-*These are just personal notes and there is no warranty at all or i am reponsible for something that can happen to your device.*
+*These are just personal notes and there is no warranty at all or i am responsible for something that can happen to your device.*
 
 **Do what you want, but you are by your own.**
 
