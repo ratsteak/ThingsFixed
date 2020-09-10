@@ -20,7 +20,7 @@ In this mode is posible to reflash the device and get a fastboot mode. I used th
 
 [https://mega.nz/#!tVd1VaoZ!epk2yLEqnQBKEwT2QbQaOe8-4675pfj76Hs7pC5kbQE](https://mega.nz/#!tVd1VaoZ!epk2yLEqnQBKEwT2QbQaOe8-4675pfj76Hs7pC5kbQE)
 
-With the phone conected via USB execute 
+With the phone conected via USB execute:
 
 ```
 blank-flash.bat

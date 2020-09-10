@@ -1,3 +1,4 @@
+
 fastboot oem fb_mode_set
 fastboot flash partition gpt.bin
 fastboot flash bootloader bootloader.img
